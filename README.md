@@ -1,2 +1,4 @@
 # hello-daitu
-shiqu
+
+public void daoleni ){dsdkjskdskdjskdjk}
+
